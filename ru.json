@@ -1,0 +1,11 @@
+{
+    "strapi": {
+        "plugin": {
+            "content-manager": {
+                "header": {
+                    "title": "Менеджер контента"
+                }
+            }
+        }
+    }
+}
